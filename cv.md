@@ -1,9 +1,8 @@
-![image.png]
 # Evgeni Karpenko
 ### Contacts 
-    mail: amay90@mail.ru
-    Telegram: amai90
-    [Instagram](https://www.instagram.com/p/ChP0ysSKr0L/)
+mail: amay90@mail.ru
+Telegram: amai90
+[Instagram](https://www.instagram.com/p/ChP0ysSKr0L/)
 
 
 I started studying front-end development on March 1, 2023. I study on my own in RolingScopesSchool. The material is given with difficulty, but so far everything is clear.
