@@ -20,7 +20,8 @@ In 2017, I graduated from the "Belarusian Trade and Economic University of Consu
 The level of my English according to the online test A2
 
 
-[My GitHub 2023](https://github.com/JackJeickobs/) 
++ [My GitHub 2023](https://github.com/JackJeickobs/) 
++ [Course RSS](https://rs.school/js-stage0/)
 ![image](https://rs.school/images/rs_school_js.svg)
 
 
